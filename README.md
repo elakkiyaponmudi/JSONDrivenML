@@ -36,5 +36,5 @@ By updating the JSON configuration file, users can change the model, feature red
 ### Prerequisites
 
 - Python 3.x
-- Required libraries (see `requirements.txt`)
-
+- pandas
+- scikit-learn
